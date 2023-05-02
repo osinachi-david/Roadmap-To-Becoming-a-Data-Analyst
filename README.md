@@ -272,11 +272,9 @@ Interview Preparation:
 
  ## Contact Me 
 
- [![Twitter Badge](https://img.shields.io/badge/mtahiraslan-follow%20on%20twitter-blue?style=for-the-badge&logo=twitter)](https://twitter.com/aslanmtahir)
-
- [![Linkedin Badge](https://img.shields.io/badge/mtahiraslan-follow%20on%20linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mtahiraslan)
-
- [![Github Badge](https://img.shields.io/badge/mtahiraslan-follow%20on%20github-blue?style=for-the-badge&logo=github)](https://github.com/mtahiraslan)
+ [![Twitter Badge](https://img.shields.io/badge/Osinachi_david1-follow%20on%20twitter-blue?style=for-the-badge&logo=twitter)](https://twitter.com/Osinachi_David1)
+ [![Linkedin Badge](https://img.shields.io/badge/Osinachi_david1-follow%20on%20linkedin-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/osinakachi-david-nwakire-7aba5ba1)
+ [![Github Badge](https://img.shields.io/badge/Osinachi_david-follow%20on%20github-blue?style=for-the-badge&logo=github)](https://https://github.com/osinachi-david)
 
  ## Contribution Guideline
 
